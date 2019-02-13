@@ -1,4 +1,4 @@
-# PowerShell-VM-Hyper-V-Scipt-Auto
+# PowerShell-VM-Hyper-V-Script-Auto
 
  .\HYPERV_New-VMFromCSV -CSVPath "D:\HYPERV_VmToCreate.csv"
  
